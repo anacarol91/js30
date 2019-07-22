@@ -12,7 +12,7 @@ const p = document.querySelector("p");
 console.log("hello");
 
 // Interpolated
-console.log("hello, I am a %s string!", "aff");
+console.log("hello, I am a %s string!", "💩");
 
 // Styled
 console.log(
